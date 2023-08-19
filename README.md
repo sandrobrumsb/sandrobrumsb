@@ -1,16 +1,21 @@
-### Hi there 👋
+<div align="center">
+  <img width=150% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+ 
+  <h1> Ola! Eu sou o Sandro 👩🏿‍💻 </h1>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poiret+One&size=30&duration=4000&pause=999&color=FFFFFF&center=true&vCenter=true&width=435&lines=%3CQA+Tester+%26+Front-end+Dev%2F%3E)](https://git.io/typing-svg)
 
-<!--
-**sandrobrumsb/sandrobrumsb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <br>
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![sandrobrumsb's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sandrobrumsb&theme=radical&show_icons=true&hide_border=false&layout=compact)
+
+![sandrobrumsb's Stats](https://github-readme-stats.vercel.app/api?username=sandrobrumsb&theme=radical&show_icons=true&hide_border=false&count_private=true)
+
+   <img align="center" alt="sb-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="sb-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="sb-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+</div>
