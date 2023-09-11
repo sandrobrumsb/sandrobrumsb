@@ -4,16 +4,16 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poiret+One&size=30&duration=4000&pause=999&color=FFFFFF&center=true&vCenter=true&width=435&lines=%3CQA+Tester+%26+Front-end+Dev%2F%3E)](https://git.io/typing-svg)
  <br>
- 
 </div>
 
 <div align="center">
-<img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandrobrumsb&theme=radical&show_icons=true&hide_border=false&layout=compact"/>
-<img height="180em"  src="https://github-readme-stats.vercel.app/api?username=sandrobrumsb&theme=radical&show_icons=true&hide_border=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandrobrumsb&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sandrobrumsb&show_icons=true&theme=radical"/>
+</div>
+  
   <br>
   <br>
   
-</div>
 
 <div align="center">
    <img align="center" alt="sb-js" height="30" width="40"     
