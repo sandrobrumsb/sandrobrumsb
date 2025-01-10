@@ -39,4 +39,6 @@ I'm particularly passionate about Front-End Development and I am currently explo
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poiret+One&weight=100&size=13&pause=1000&color=FF1426FF&center=true&vCenter=true&width=435&lines=%E3%83%AF%E3%83%B3%E3%83%94%E3%83%BC%E3%82%B9%E3%81%AF%E5%AE%9F%E5%9C%A8%E3%81%99%E3%82%8B)](https://git.io/typing-svg)
 </div>
+
+📫 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandrobrumsb/)](https://www.linkedin.com/in/sandrobrumsb/)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
