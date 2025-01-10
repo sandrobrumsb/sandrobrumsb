@@ -4,7 +4,7 @@
  <br>
   
 </div>
- Hi! I'm Sandro Silva, a graduate in Information Systems from the Center University UNA and a postgraduate in Artificial Intelligence from the University Cruzeiro do Sul.
+ Hi! I'm Sandro, a graduate in Information Systems from the Center University UNA and a postgraduate in Artificial Intelligence from the University Cruzeiro do Sul.
 
 I currently work as a Software Test Analyst at Teknisa Softwares. I'm also a Developer, specializing in agile methodologies (SCRUM), HTML, CSS, JavaScript, Python, and React. I leverage Git for version control and collaborative development across all projects.
 
