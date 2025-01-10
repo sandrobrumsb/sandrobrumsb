@@ -37,6 +37,6 @@ I'm particularly passionate about Front-End Development and I am currently explo
     <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width='50px'/>
 </p>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poiret+One&weight=100&size=13&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=%E3%83%AF%E3%83%B3%E3%83%94%E3%83%BC%E3%82%B9%E3%81%AF%E5%AE%9F%E5%9C%A8%E3%81%99%E3%82%8B)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poiret+One&weight=100&size=13&pause=1000&color=FF1426FF&center=true&vCenter=true&width=435&lines=%E3%83%AF%E3%83%B3%E3%83%94%E3%83%BC%E3%82%B9%E3%81%AF%E5%AE%9F%E5%9C%A8%E3%81%99%E3%82%8B)](https://git.io/typing-svg)
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
