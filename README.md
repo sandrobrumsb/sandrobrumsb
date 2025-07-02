@@ -22,7 +22,7 @@ I'm particularly passionate about Artificial Intelligence, and I'm currently exp
   
 
 <div align="center">
-    <img align="" src="https://i.makeagif.com/media/3-07-2016/bxTCt1.gif" width="200">
+    <img align="" src="[https://i.makeagif.com/media/3-07-2016/bxTCt1.gif](https://i.makeagif.com/media/3-07-2016/bxT)" width="200">
   
 <p align="center">
   <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width='50px'/>
