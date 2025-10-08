@@ -3,11 +3,11 @@
   Welcome to my profile! <br><br>
 </div>
 
-Hi! I'm Sandro Brum, a graduate in Information Systems from Centro Universitário UNA and a postgraduate in Artificial Intelligence from Universidade Cruzeiro do Sul.
+Hi! I'm Sandro, a graduate in Information Systems from Centro Universitário UNA and a postgraduate in Artificial Intelligence from Universidade Cruzeiro do Sul.
 
-I currently work as a Junior Back-End Developer at Teknisa Softwares. I also have experience in Front-End Development, specializing in agile methodologies (Scrum), HTML, CSS, JavaScript, Python, and Vue/ReactJS. I leverage Git for version control and collaborative development across all projects.
+With 7 years of experience in IT, I currently work as a Developer at Teknisa. I also have experience in software testing, agile methodologies (Scrum), and teamwork skills across all projects.
 
-I'm particularly passionate about Artificial Intelligence, and I'm currently exploring opportunities in Data Engineering.
+I'm particularly passionate about Artificial Intelligence and am currently exploring opportunities in Data Engineering.
 
 <div align="center">
   <br>
