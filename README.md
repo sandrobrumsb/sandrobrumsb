@@ -11,7 +11,7 @@ I'm particularly passionate about Artificial Intelligence and am currently explo
 
 <div align="center">
   <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sandrobrumsb&show_icons=true&theme=radical"/>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sandrobrumsb&show_icons=true&theme=radical"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandrobrumsb&layout=compact&theme=radical"/>
 </div>
 
