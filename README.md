@@ -17,9 +17,7 @@ I'm particularly passionate about Artificial Intelligence and am currently explo
   <!-- <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/streak?username=sandrobrumsb"/> -->
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sandrobrumsb&layout=compact"/>
 </div>
-
-<br><br>
-
+<br>
 <div align="center">
   <img src="https://c.tenor.com/D2H0hPltOdYAAAAd/tenor.gif" width="200"> 
 </div>
