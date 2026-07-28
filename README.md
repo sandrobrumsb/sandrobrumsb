@@ -10,13 +10,22 @@ With 7 years of experience in IT, I currently work as a Developer at Teknisa. I 
 I'm particularly passionate about Artificial Intelligence and am currently exploring opportunities in Data Engineering.
 
 <div align="center">
-  <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
-    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sandrobrumsb&layout=compact"/>
-    <img height="180em" src="https://c.tenor.com/D2H0hPltOdYAAAAd/tenor.gif"/>
-  </div>
+
+<table border="0">
+  <tr>
+    <td>
+      <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sandrobrumsb&layout=compact"/>
+    </td>
+    <td>
+      <img height="180em" src="https://c.tenor.com/D2H0hPltOdYAAAAd/tenor.gif"/>
+    </td>
+  </tr>
+</table>
+
 </div>
 
 <br>
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
