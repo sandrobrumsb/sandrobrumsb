@@ -24,7 +24,7 @@ I'm particularly passionate about Artificial Intelligence and am currently explo
 
 <br>
 
-<p align="center">
+<div align="center">
   <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width="25px"/>
   <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width="25px"/>
   <img src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" width="25px"/>
@@ -35,7 +35,7 @@ I'm particularly passionate about Artificial Intelligence and am currently explo
   <img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" width="25px"/>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="25px"/>
   <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="25px"/>
-</p>
+</div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
