@@ -24,12 +24,13 @@ I'm particularly passionate about Artificial Intelligence and am currently explo
 
 <br>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python" width="40" title="Python"/>
-  <img src="https://skillicons.dev/icons?i=javascript" width="40" title="JavaScript"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" width="40" title="MongoDB"/>
-  <img src="https://skillicons.dev/icons?i=postgres" width="40" title="PostgreSQL"/>
-  <img src="https://skillicons.dev/icons?i=docker" width="40" title="Docker"/>
-  <img src="https://skillicons.dev/icons?i=tensorflow" width="40" title="Artificial Intelligence"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" title="Vue.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" title="Docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" title="AI Developer"/>
 </div>
 
 <div align="center">
